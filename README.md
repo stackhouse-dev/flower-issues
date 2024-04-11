@@ -1,7 +1,8 @@
-# Flower
-
-Questa repo viene utilizzata per le segnalazioni della libreria Flower.
-Per segnalare un bug o altra richiesta, utilizza la tab ISSUES su github.
+# Flower Issues
+ 
+This repository is used with the sole purpose of tracking Flower Client issues and new requests/suggestions.
+ 
+To open a new issue use the **Issues** section on Github.
 
 
 
